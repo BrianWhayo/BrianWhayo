@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianwhayo&label=Profile%20views&color=0e75b6&style=flat" alt="brianwhayo" /> </p>
 
-- 🌱 I’m currently learning **Machine learning & Data Mining. Advanced Database. Statistics. Data Visualisation. Big Data Tools and Techniques **
+- 🌱 I Studied Masters in Data Science Discipline, Covering the following Models **Machine learning & Data Mining. Advanced Database. Statistics. Data Visualisation. Big Data Tools and Techniques **
 
-- 💬 Ask me about **Cloud Computing: laaS. paaS. SaaS. Dropbox**
+- 💬 Ask me about **Cloud Computing: laaS. paaS. SaaS. Dropbox. Computer Vision**
 
 - 📫 How to reach me **brianwhayo@yahoo.co.uk**
 
